@@ -1,4 +1,4 @@
-<div align='center'></div>
+<div align='center'>
 
 # Klockcraft Classic
 ## This is the actual version of Minecraft Classic (aka version 0.0.23a_01), feel free to fork, or run it for yourself.
