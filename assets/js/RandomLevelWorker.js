@@ -1,3 +1,6 @@
+// Knock Craft Rewrite 
+
+
 // World generation as a worker.
 function Distort (source, distort) {
 
