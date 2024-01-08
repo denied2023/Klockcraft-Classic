@@ -6,4 +6,4 @@
 ### 🟦 TIP: Do not run this project locally, please run on a live server or HTTP.
 ### (This is web scrap of minecraft.classic.net I just wanted to make the src code public)
 ![proof](https://raw.githubusercontent.com/Klockcraft-Offical/.github/main/2023-11-02%20(1).png)
-### Happy Hacking! 💻
+### Happy Modeyfing! 💻
